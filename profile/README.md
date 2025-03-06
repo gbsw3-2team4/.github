@@ -1,3 +1,3 @@
 ## team 4
 
-<img src="https://img.shields.io/badge/notion-E34F26?style=for-the-badge&logo=notion&logoColor=white">(https://leebo-ram.github.io/Navbar/)
+[ Notion ](https://www.notion.so/team/1ae8e616-e7d5-815f-9483-00423ef9a062/join)
